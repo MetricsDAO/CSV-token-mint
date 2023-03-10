@@ -8,8 +8,15 @@ Here are the addresses you are likely going to need. You can use others, but if 
 
 ### Polygon
 
-* `Badger Organization`: 0x1ccb2945F1325e061b40Fe5b0B452f0E76fB7278
+* `Badger Organization`: 0x854DE1bf96dFBe69FC46f1a888d26934Ad47B77f
 * `Mock20`: 0xCce422781e1818821f50226C14E6289a7144a898
+
+* Mock Badge Roles:
+- Governor (Manage Overall Config) - TokenID 0 
+- Creator (Create Labor Markets) - TokenID 1
+- Delegate (Create Requests) - TokenID 2
+- Maintainer (Review Submissions) - TokenID 3
+- rToken - TokenID 4
 
 ## Issuing tokens
 
